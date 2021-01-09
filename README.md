@@ -1,2 +1,2 @@
 # robofriends
-React Course Andrei
+React Course Andrei Neagoie, thanks a lot!
